@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599837834 source:c:\users\kevin\desktop\tps\tp 1\tp_laboratorio_1-\calculadora\calculos.c
+
+1599837834 source:c:\users\kevin\desktop\tps\tp 1\tp_laboratorio_1-\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
